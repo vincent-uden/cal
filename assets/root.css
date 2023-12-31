@@ -1,0 +1,9 @@
+
+.food_indicator {
+    opacity: 0;
+    transition: opacity .1s ease-in-out;
+}
+
+.food_title .htmx-request {
+    opacity: 1;
+}
